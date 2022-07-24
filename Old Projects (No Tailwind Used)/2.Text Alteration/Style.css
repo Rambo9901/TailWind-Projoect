@@ -1,0 +1,40 @@
+body{
+    margin: 20px;
+    background-color: #ff7b25;
+}
+h1{
+    text-align: center;
+    text-shadow: 7px 7px 10px #000000;
+    font-size: 50px;
+    background-color: darkkhaki;
+    text-transform: uppercase;
+}
+p.HTML{
+    font-size: 40px;
+    text-decoration: underline;
+    line-height: 1.2em;
+    font-style: italic;
+}
+abbr.HTML:hover{
+    font-weight: bold;   
+}
+p.CSS{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-style: bold;
+    letter-spacing: 0.01em;
+}
+p.CSS:hover{
+    font-stretch: ultra-condensed;
+}
+abbr.CSS:hover{
+    font-stretch: semi-condensed;
+}
+p.credits{
+    font-size: 50px;
+    background-color: darkkhaki;
+    text-align: right;
+    text-shadow: 7px 7px 10px  lightcoral;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
